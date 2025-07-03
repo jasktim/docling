@@ -23,7 +23,8 @@ pip install modelscope
 ## 2、使用modelscope下载模型
 
 ```bash
-# 跳转模型路径
+# 创建模型存放文件夹
+mkdir models
 cd models
 
 # 下载docling模型
