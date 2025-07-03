@@ -1,6 +1,6 @@
-# docling
+# docling的本地部署
 
-## github下载
+## github clone
 
 ```bash
 git clone https://github.com/jasktim/docling.git
